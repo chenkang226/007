@@ -1,0 +1,15 @@
+光大：14350.16   15605
+招商：10294.98   8062
+合计：24645.14   23667
+度小满金融：24419.20
+黄浩：5000
+
+
+
+C:\ProgramData\Oracle\Java\javapath;
+D:\Python27\;D:\Python27\Scripts;
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
+H:\SVN\Git\cmd
+
+
+https://blog.csdn.net/qq_35275233/article/details/89144557
